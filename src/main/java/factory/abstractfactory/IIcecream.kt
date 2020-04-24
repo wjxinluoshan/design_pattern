@@ -1,4 +1,4 @@
-package factory.simplefactory
+package factory.abstractfactory
 
 interface IIcecream {
     var brandName:String?
