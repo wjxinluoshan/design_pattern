@@ -1,7 +1,9 @@
 package structuralpattern.adaptor;
 
 public class CameraCard {
-      private int memorySize;
+
+  private int memorySize;
+  private String brand;
 
   public int getMemorySize() {
     return memorySize;
@@ -19,6 +21,5 @@ public class CameraCard {
     this.brand = brand;
   }
 
-  private String brand;
 
 }

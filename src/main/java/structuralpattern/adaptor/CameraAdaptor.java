@@ -16,6 +16,6 @@ public class CameraAdaptor extends CameraCard implements Usb {
 
   @Override
   public String toString() {
-    return "camere brand is "+this.getBrand()+" and memory size is "+this.getMemorySize();
+    return "camera brand is "+this.getBrand()+" and memory size is "+this.getMemorySize();
   }
 }

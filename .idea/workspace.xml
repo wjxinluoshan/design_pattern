@@ -2,8 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbcbbc47-aff6-47ab-a030-2a23884ef2a3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/structuralpattern/bridge/CreateFoodAbstract.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/structuralpattern/bridge/CreateFoodAbstractImpl.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/structuralpattern/bridge/CreateFoodImplementor.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/structuralpattern/bridge/CreateFoodImplementorImpl.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/structuralpattern/bridge/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DPTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/structuralpattern/adaptor/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structuralpattern/adaptor/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/structuralpattern/adaptor/CameraAdaptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structuralpattern/adaptor/CameraAdaptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/structuralpattern/adaptor/CameraCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structuralpattern/adaptor/CameraCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/adaptor/AdaptorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/buider/BuilderTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/creationalpattern/factory/abstractfactory/AbstractFactoryTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/creationalpattern/factory/simplefactory/SimpleFactoryTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/structuralpattern/adaptor/CameraAdaptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/structuralpattern/adaptor/CameraAdaptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/structuralpattern/adaptor/CameraCard.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/structuralpattern/adaptor/CameraCard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/adaptor/AdaptorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/buider/BuilderTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/creationalpattern/factory/abstractfactory/AbstractFactoryTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/creationalpattern/factory/simplefactory/SimpleFactoryTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,10 +33,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Interface" />
-        <option value="Kotlin Class" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -62,7 +79,7 @@
       <select />
     </treeState>
   </component>
-  <component name="RunManager" selected="JUnit.AdaptorTest.test">
+  <component name="RunManager" selected="JUnit.DPTest.bridge">
     <configuration name="AbstractFactoryTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="design_pattern" />
       <extension name="coverage">
@@ -111,6 +128,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DPTest.bridge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="design_pattern" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DPTest" />
+      <option name="METHOD_NAME" value="bridge" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SimpleFactoryTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="design_pattern" />
       <extension name="coverage">
@@ -129,6 +156,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.DPTest.bridge" />
         <item itemvalue="JUnit.AdaptorTest.test" />
         <item itemvalue="JUnit.BuilderTest.test" />
         <item itemvalue="JUnit.AbstractFactoryTest.test" />
@@ -161,7 +189,7 @@
       <workItem from="1587687597763" duration="11075000" />
       <workItem from="1587770066484" duration="624000" />
       <workItem from="1587866219888" duration="442000" />
-      <workItem from="1587870043876" duration="3787000" />
+      <workItem from="1587870043876" duration="9048000" />
     </task>
     <servers />
   </component>
@@ -169,30 +197,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="435" y="92" key="#com.intellij.ide.util.MemberChooser" timestamp="1587874165980">
+    <state x="435" y="92" key="#com.intellij.ide.util.MemberChooser" timestamp="1587891636184">
       <screen x="0" y="31" width="1280" height="689" />
     </state>
-    <state x="435" y="92" key="#com.intellij.ide.util.MemberChooser/0.31.1280.689@0.31.1280.689" timestamp="1587874165980" />
+    <state x="435" y="92" key="#com.intellij.ide.util.MemberChooser/0.31.1280.689@0.31.1280.689" timestamp="1587891636184" />
     <state x="468" y="303" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1587736586049">
       <screen x="0" y="31" width="1280" height="689" />
     </state>
     <state x="468" y="303" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.31.1280.689@0.31.1280.689" timestamp="1587736586049" />
-    <state width="1237" height="181" key="GridCell.Tab.0.bottom" timestamp="1587876535111">
+    <state width="1237" height="181" key="GridCell.Tab.0.bottom" timestamp="1587892690161">
       <screen x="0" y="31" width="1280" height="689" />
     </state>
-    <state width="1237" height="181" key="GridCell.Tab.0.bottom/0.31.1280.689@0.31.1280.689" timestamp="1587876535111" />
-    <state width="1237" height="181" key="GridCell.Tab.0.center" timestamp="1587876535111">
+    <state width="1237" height="181" key="GridCell.Tab.0.bottom/0.31.1280.689@0.31.1280.689" timestamp="1587892690161" />
+    <state width="1237" height="181" key="GridCell.Tab.0.center" timestamp="1587892690161">
       <screen x="0" y="31" width="1280" height="689" />
     </state>
-    <state width="1237" height="181" key="GridCell.Tab.0.center/0.31.1280.689@0.31.1280.689" timestamp="1587876535111" />
-    <state width="1237" height="181" key="GridCell.Tab.0.left" timestamp="1587876535110">
+    <state width="1237" height="181" key="GridCell.Tab.0.center/0.31.1280.689@0.31.1280.689" timestamp="1587892690161" />
+    <state width="1237" height="181" key="GridCell.Tab.0.left" timestamp="1587892690161">
       <screen x="0" y="31" width="1280" height="689" />
     </state>
-    <state width="1237" height="181" key="GridCell.Tab.0.left/0.31.1280.689@0.31.1280.689" timestamp="1587876535110" />
-    <state width="1237" height="181" key="GridCell.Tab.0.right" timestamp="1587876535111">
+    <state width="1237" height="181" key="GridCell.Tab.0.left/0.31.1280.689@0.31.1280.689" timestamp="1587892690161" />
+    <state width="1237" height="181" key="GridCell.Tab.0.right" timestamp="1587892690161">
       <screen x="0" y="31" width="1280" height="689" />
     </state>
-    <state width="1237" height="181" key="GridCell.Tab.0.right/0.31.1280.689@0.31.1280.689" timestamp="1587876535111" />
+    <state width="1237" height="181" key="GridCell.Tab.0.right/0.31.1280.689@0.31.1280.689" timestamp="1587892690161" />
     <state x="150" y="30" key="SettingsEditor" timestamp="1587874612337">
       <screen x="0" y="31" width="1280" height="689" />
     </state>
