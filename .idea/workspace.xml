@@ -2,36 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbcbbc47-aff6-47ab-a030-2a23884ef2a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory/abstractfactory/AbstractFactory.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory/abstractfactory/FactoryGenerator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory/abstractfactory/IIcecream.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory/abstractfactory/StrawberryFactory.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory/abstractfactory/StrawberryIcecream.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory/abstractfactory/VanillaFactory.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory/abstractfactory/VanillaIcecream.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory/simplefactory/IceCreamFactory.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory/simplefactory/ReadMe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory/simplefactory/StrawberryIcecream.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory/simplefactory/VanillaIcecream.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/factory/abstractfactory/AbstractFactoryTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/factory/simplefactory/SimpleFactoryTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/design_pattern.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/factory/abstractfactory/AbstractFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/factory/abstractfactory/FactoryGenerator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/factory/abstractfactory/IIcecream.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/factory/abstractfactory/StrawberryFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/factory/abstractfactory/StrawberryIcecream.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/factory/abstractfactory/VanillaFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/factory/abstractfactory/VanillaIcecream.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/factory/simplefactory/IIcecream.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/factory/simplefactory/IceCreamFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/factory/simplefactory/StrawberryIcecream.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/factory/simplefactory/VanillaIcecream.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/design_pattern.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/factory/abstractfactory/AbstractFactoryTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/factory/simplefactory/SimpleFactoryTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creationalpattern/builder/Product.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/creationalpattern/builder/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/structuralpattern/adaptor/CameraAdaptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/structuralpattern/adaptor/CameraCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/structuralpattern/adaptor/PC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/structuralpattern/adaptor/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/structuralpattern/adaptor/Usb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/adaptor/AdaptorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/buider/BuilderTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/factory/simplefactory/IIcecream.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/factory/simplefactory/IIcecream.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factory/abstractfactory/AbstractFactory.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/creationalpattern/factory/abstractfactory/AbstractFactory.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factory/abstractfactory/FactoryGenerator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/creationalpattern/factory/abstractfactory/FactoryGenerator.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factory/abstractfactory/IIcecream.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/creationalpattern/factory/abstractfactory/IIcecream.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factory/abstractfactory/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/creationalpattern/factory/abstractfactory/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factory/abstractfactory/StrawberryFactory.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/creationalpattern/factory/abstractfactory/StrawberryFactory.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factory/abstractfactory/StrawberryIcecream.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/creationalpattern/factory/abstractfactory/StrawberryIcecream.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factory/abstractfactory/VanillaFactory.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/creationalpattern/factory/abstractfactory/VanillaFactory.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factory/abstractfactory/VanillaIcecream.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/creationalpattern/factory/abstractfactory/VanillaIcecream.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factory/simplefactory/IIcecream.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/creationalpattern/factory/simplefactory/IIcecream.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factory/simplefactory/IceCreamFactory.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/creationalpattern/factory/simplefactory/IceCreamFactory.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factory/simplefactory/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/creationalpattern/factory/simplefactory/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factory/simplefactory/StrawberryIcecream.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/creationalpattern/factory/simplefactory/StrawberryIcecream.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/factory/simplefactory/VanillaIcecream.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/creationalpattern/factory/simplefactory/VanillaIcecream.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/factory/abstractfactory/AbstractFactoryTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/creationalpattern/factory/abstractfactory/AbstractFactoryTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/factory/simplefactory/SimpleFactoryTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/creationalpattern/factory/simplefactory/SimpleFactoryTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractfactory/AbstractFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractfactory/FactoryGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractfactory/IIcecream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractfactory/StrawberryFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractfactory/StrawberryIcecream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractfactory/VanillaFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/abstractfactory/VanillaIcecream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/simplefactory/IIcecream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/simplefactory/IceCreamFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/simplefactory/StrawberryIcecream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/factory/simplefactory/VanillaIcecream.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +53,8 @@
       <list>
         <option value="Kotlin Interface" />
         <option value="Kotlin Class" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -61,13 +70,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="D:/an-studio/sdk" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/factory/abstractfactory" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
@@ -83,17 +96,49 @@
       <select />
     </treeState>
   </component>
-  <component name="RunManager" selected="JUnit.AbstractFactoryTest.test">
+  <component name="RunManager" selected="JUnit.AdaptorTest.test">
     <configuration name="AbstractFactoryTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="design_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="factory.abstractfactory.*" />
+          <option name="PATTERN" value="creationalpattern.factory.abstractfactory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="factory.abstractfactory" />
-      <option name="MAIN_CLASS_NAME" value="factory.abstractfactory.AbstractFactoryTest" />
+      <option name="PACKAGE_NAME" value="creationalpattern.factory.abstractfactory" />
+      <option name="MAIN_CLASS_NAME" value="creationalpattern.factory.abstractfactory.AbstractFactoryTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdaptorTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="adaptor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="adaptor" />
+      <option name="MAIN_CLASS_NAME" value="adaptor.AdaptorTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BuilderTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="buider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="buider" />
+      <option name="MAIN_CLASS_NAME" value="buider.BuilderTest" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -104,12 +149,12 @@
       <module name="design_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="factory.simplefactory.*" />
+          <option name="PATTERN" value="creationalpattern.factory.simplefactory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="factory.simplefactory" />
-      <option name="MAIN_CLASS_NAME" value="factory.simplefactory.SimpleFactoryTest" />
+      <option name="PACKAGE_NAME" value="creationalpattern.factory.simplefactory" />
+      <option name="MAIN_CLASS_NAME" value="creationalpattern.factory.simplefactory.SimpleFactoryTest" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -118,6 +163,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AdaptorTest.test" />
+        <item itemvalue="JUnit.BuilderTest.test" />
         <item itemvalue="JUnit.AbstractFactoryTest.test" />
         <item itemvalue="JUnit.SimpleFactoryTest.test" />
       </list>
@@ -145,7 +192,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587687593778</updated>
-      <workItem from="1587687597763" duration="5784000" />
+      <workItem from="1587687597763" duration="11075000" />
+      <workItem from="1587770066484" duration="624000" />
+      <workItem from="1587866219888" duration="442000" />
+      <workItem from="1587870043876" duration="2520000" />
     </task>
     <servers />
   </component>
@@ -153,26 +203,38 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="435" y="93" key="#com.intellij.ide.util.MemberChooser" timestamp="1587692287729">
+    <state x="435" y="92" key="#com.intellij.ide.util.MemberChooser" timestamp="1587874165980">
       <screen x="0" y="31" width="1280" height="689" />
     </state>
-    <state x="435" y="93" key="#com.intellij.ide.util.MemberChooser/0.31.1280.689@0.31.1280.689" timestamp="1587692287729" />
-    <state width="1237" height="166" key="GridCell.Tab.0.bottom" timestamp="1587692425507">
+    <state x="435" y="92" key="#com.intellij.ide.util.MemberChooser/0.31.1280.689@0.31.1280.689" timestamp="1587874165980" />
+    <state x="468" y="303" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1587736586049">
       <screen x="0" y="31" width="1280" height="689" />
     </state>
-    <state width="1237" height="166" key="GridCell.Tab.0.bottom/0.31.1280.689@0.31.1280.689" timestamp="1587692425507" />
-    <state width="1237" height="166" key="GridCell.Tab.0.center" timestamp="1587692425507">
+    <state x="468" y="303" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.31.1280.689@0.31.1280.689" timestamp="1587736586049" />
+    <state width="1237" height="181" key="GridCell.Tab.0.bottom" timestamp="1587874664986">
       <screen x="0" y="31" width="1280" height="689" />
     </state>
-    <state width="1237" height="166" key="GridCell.Tab.0.center/0.31.1280.689@0.31.1280.689" timestamp="1587692425507" />
-    <state width="1237" height="166" key="GridCell.Tab.0.left" timestamp="1587692425506">
+    <state width="1237" height="181" key="GridCell.Tab.0.bottom/0.31.1280.689@0.31.1280.689" timestamp="1587874664986" />
+    <state width="1237" height="181" key="GridCell.Tab.0.center" timestamp="1587874664985">
       <screen x="0" y="31" width="1280" height="689" />
     </state>
-    <state width="1237" height="166" key="GridCell.Tab.0.left/0.31.1280.689@0.31.1280.689" timestamp="1587692425506" />
-    <state width="1237" height="166" key="GridCell.Tab.0.right" timestamp="1587692425507">
+    <state width="1237" height="181" key="GridCell.Tab.0.center/0.31.1280.689@0.31.1280.689" timestamp="1587874664985" />
+    <state width="1237" height="181" key="GridCell.Tab.0.left" timestamp="1587874664985">
       <screen x="0" y="31" width="1280" height="689" />
     </state>
-    <state width="1237" height="166" key="GridCell.Tab.0.right/0.31.1280.689@0.31.1280.689" timestamp="1587692425507" />
+    <state width="1237" height="181" key="GridCell.Tab.0.left/0.31.1280.689@0.31.1280.689" timestamp="1587874664985" />
+    <state width="1237" height="181" key="GridCell.Tab.0.right" timestamp="1587874664985">
+      <screen x="0" y="31" width="1280" height="689" />
+    </state>
+    <state width="1237" height="181" key="GridCell.Tab.0.right/0.31.1280.689@0.31.1280.689" timestamp="1587874664985" />
+    <state x="150" y="30" key="SettingsEditor" timestamp="1587874612337">
+      <screen x="0" y="31" width="1280" height="689" />
+    </state>
+    <state x="150" y="30" key="SettingsEditor/0.31.1280.689@0.31.1280.689" timestamp="1587874612337" />
+    <state x="342" y="201" key="com.intellij.ide.util.TipDialog" timestamp="1587870232469">
+      <screen x="0" y="31" width="1280" height="689" />
+    </state>
+    <state x="342" y="201" key="com.intellij.ide.util.TipDialog/0.31.1280.689@0.31.1280.689" timestamp="1587870232469" />
     <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1587692900722">
       <screen x="0" y="31" width="1280" height="689" />
     </state>
