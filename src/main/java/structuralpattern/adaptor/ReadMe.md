@@ -1,4 +1,1 @@
-> Adapter design pattern is one of the structural design pattern
-> and its used so that two unrelated interfaces can work together.
-> The object, that joins these unrelated interfaces,
-> is called an Adapter.
+>适配器模式是结构模式的一种，它能够使两个没有联系的接口在一起工作。连接不相关的接口的对象叫作适配器
